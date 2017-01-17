@@ -5,10 +5,11 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class SgtPeppers implements CompactDisc{
-
-
+    private String title = "sssdsfdsfdsfsdfdfds";
+    private String artist = "吴帅";
     @Override
     public void play() {
+        System.out.println("Playing"+title+"by"+artist);
 
     }
 }
