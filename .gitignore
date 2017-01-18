@@ -10,3 +10,17 @@ target/*
 file.log
 .idea/*
 PaladinAPITest.iml
+*.iml
+Thumbs.db
+.DS_Store
+.gradle
+build
+bin
+.classpath
+.project
+.settings
+.springBeans
+exploration
+*.iml
+*.ipr
+*.iws

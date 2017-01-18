@@ -1,3 +1,5 @@
+package wutest;
+
 import org.springframework.stereotype.Component;
 
 /**
