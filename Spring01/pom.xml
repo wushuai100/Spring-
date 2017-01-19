@@ -32,6 +32,21 @@
             <version>4.3.4.RELEASE</version>
         </dependency>
         <dependency>
+            <groupId>com.github.stefanbirkner</groupId>
+            <artifactId>system-rules</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.contrib</groupId>
+            <artifactId>junit-theories</artifactId>
+            <version>4.12-beta-2</version>
+        </dependency>
+        <dependency>
+            <groupId>com.googlecode.spring-contributions</groupId>
+            <artifactId>spring-contributions</artifactId>
+            <version>2.0.0</version>
+        </dependency>
+        <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
             <version>4.3.4.RELEASE</version>
