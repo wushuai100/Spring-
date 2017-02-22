@@ -22,7 +22,7 @@
     </constructor-arg>
 </bean>
     <bean id="cdPlayer" class="wutest.CDPlayer">
-        <constructor-arg ref="compactDisc"/>
+<property name="cd" ref="cd"/>
     </bean>
 
 </beans>
